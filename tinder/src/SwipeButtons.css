@@ -1,9 +1,11 @@
 .swipeButtons {
+  margin-top: 2vw;
   position: fixed;
   bottom: 10vh;
   display: flex;
   width: 100%;
   justify-content: space-evenly;
+  padding-top: 10vh;
 }
 
 /* .MuiIconButton-root selects all Material UI buttons */
